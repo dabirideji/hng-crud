@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the documentation for LARADEJ, a simple REST API for managing person records. This documentation provides comprehensive guidance on setting up, using, and interacting with the API.
+Welcome to the documentation for HNG-CRUD, a simple REST API for managing person records. This documentation provides comprehensive guidance on setting up, using, and interacting with the API.
 
 ## Table of Contents
 1. [Getting Started](#1-getting-started)
@@ -25,7 +25,7 @@ Welcome to the documentation for LARADEJ, a simple REST API for managing person 
 
 ## 1. Getting Started
 
-To get started with LARADEJ locally, follow these steps:
+To get started with HNG-CRUD locally, follow these steps:
 
 1. Clone the repository from [GitHub](https://github.com/yourusername/yourrepository).
 2. Install PHP and Composer if not already installed.
@@ -46,7 +46,7 @@ php artisan serve
 Configure the database connection and set necessary environment variables in the .env file. Ensure the environment variables are properly set for database connections.
 
 3. Database Schema
-Below is the database schema used by LARADEJ:
+Below is the database schema used by HNG-CRUD:
 
 Database Schema
 
@@ -100,7 +100,7 @@ The application can be tested using tools like Postman, Insomnia, or other API t
 (Provide instructions for deploying the API to a server.)
 
 9. GitHub Repository
-The source code for LARADEJ is available on GitHub. GitHub Repository
+The source code for HNG-CRUD is available on GitHub. GitHub Repository
 
 10. Known Limitations and Assumptions
 (List any known limitations or assumptions made during development.)
@@ -123,7 +123,7 @@ Note: Currently, it's not open-source, but soon it will be.
 Email: dabirideji@gmail.com
 GitHub: dabirideji
 Conclusion
-Thank you for using LARADEJ! We hope this documentation helps you get started and make the most of our API. If you have any questions or encounter any issues, please don't hesitate to reach out.
+Thank you for using HNG-CRUD! We hope this documentation helps you get started and make the most of our API. If you have any questions or encounter any issues, please don't hesitate to reach out.
 
 
 
